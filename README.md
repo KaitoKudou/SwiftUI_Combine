@@ -1,5 +1,5 @@
 # SwiftUI_Combine
-- SwiftUI+Combine+URLSessionで簡単なAPIクライアントを実装
+- SwiftUI+Combine+URLSessionでAPI叩く
 ## 使用API
 - Connpass API
   - [APIリファレンス](https://connpass.com/about/api/)
